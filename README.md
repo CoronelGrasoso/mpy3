@@ -8,9 +8,9 @@ Mini command-based music player made in python
 
 ***3* Pause/Unpause**
 
-### **Used modules:**
+### **Used modules:** _(if the names dont have a link its because they are in python as default)_
 
-- ***Pygame***
+- [***Pygame***](https://pypi.org/project/pygame/)
 
 - ***os***
 
