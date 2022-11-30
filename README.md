@@ -7,3 +7,9 @@ Mini command-based music player made in python
 ***2* Go to the previous sound**
 
 ***3* Pause/Unpause**
+
+### **Used modules:**
+
+***Pygame***
+***os***
+***platform***
