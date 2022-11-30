@@ -10,6 +10,8 @@ Mini command-based music player made in python
 
 ### **Used modules:**
 
-***Pygame***
-***os***
-***platform***
+- ***Pygame***
+
+- ***os***
+
+- ***platform***
